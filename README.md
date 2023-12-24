@@ -1,4 +1,4 @@
 # program_basic
 This is my first Git Repository
 <br>
-User - Rishikesh Singh
+User - Rishikesh Singh (Git hub)
